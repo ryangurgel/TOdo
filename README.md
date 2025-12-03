@@ -2,6 +2,8 @@
 
 Aplicativo Android simples de lista de tarefas desenvolvido com Jetpack Compose e MVVM.
 
+![Todo App](TOdo.jpeg)
+
 ## O que o app faz
 - Exibe uma lista de tarefas iniciais carregadas em memória.
 - Permite adicionar uma nova tarefa digitando o título e tocando em **Add**.
