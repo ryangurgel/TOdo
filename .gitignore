@@ -1,0 +1,34 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# IntelliJ / Android Studio
+/.idea/
+/.idea/*
+*.iml
+
+# Local config
+local.properties
+
+# Native build
+.cxx/
+externalNativeBuild/
+
+# Captures
+captures/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# Signing
+*.keystore
+*.jks
+
+# Jetpack Compose preview junk
+*.preview
+
+# Misc
+*.apk
+*.aab
